@@ -1,6 +1,6 @@
 
 
-**Stock Analysis App**
+# Stock Analysis App
 
 A web-based application built with Streamlit that provides a comprehensive stock analysis tool for investors. The app utilizes natural language processing (NLP) and machine learning models to gather and analyze financial data, news, and trends to provide personalized investment recommendations.
 
@@ -25,7 +25,3 @@ A web-based application built with Streamlit that provides a comprehensive stock
 2. Install the required dependencies using `pip install -r requirements.txt`
 3. Run the application using `streamlit run main.py`
 4. Enter a stock name or ticker symbol and click Analyze to see the results
-
-**Contributing**
-
-Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
