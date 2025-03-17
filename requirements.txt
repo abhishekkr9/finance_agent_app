@@ -1,0 +1,9 @@
+duckduckgo-search
+openai
+agno
+pycountry
+groq
+beautifulsoup4
+ollama
+OpenBB
+streamlit
